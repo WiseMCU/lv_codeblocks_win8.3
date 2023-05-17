@@ -2,5 +2,3 @@
 
 CodeBlocks模拟运行LVGL8.3
 
-
-
