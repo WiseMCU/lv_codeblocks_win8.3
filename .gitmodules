@@ -1,1 +1,5 @@
 
+[submodule "LVGL_PageManager"]
+	path = LVGL_PageManager
+	url = git@github.com:WiseMCU/LVGL_PageManager.git
+	branch = PageManager
