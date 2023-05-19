@@ -40,29 +40,6 @@
 			<Add option="-Wall" />
 			<Add directory="." />
 		</Compiler>
-		<Unit filename="PageManager/DEMO/Page.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="PageManager/DEMO/Page.h" />
-		<Unit filename="PageManager/DEMO/PageMain.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="PageManager/DEMO/PageManager.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="PageManager/DEMO/PageManager.h" />
-		<Unit filename="PageManager/DEMO/PageMonth.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="PageManager/DEMO/PagePop.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="PageManager/DEMO/img.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="PageManager/DEMO/img1.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="lv_conf.h" />
 		<Unit filename="lv_drivers/display/GC9A01.c">
 			<Option compilerVar="CC" />
